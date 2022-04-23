@@ -6,9 +6,7 @@ A website that Social Solution Services
 ## Built With
 * HTML
 * CSS
-```md
     ![Screenshot of Horiseon Webpage.](assets/images/screenshot.png)
-    ```
 
 
 ## Website
